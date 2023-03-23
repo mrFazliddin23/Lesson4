@@ -1,0 +1,10 @@
+.box {
+    height: 50px;
+    /* background-color: rgb(255, 28, 28); */
+    /* background-color:rgba(228, 28, 28, 0.5); */
+    background-color: #000000;
+}
+.menu-item {
+    list-style: none;
+    border: 5px solid;
+}

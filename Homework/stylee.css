@@ -1,0 +1,339 @@
+.line {
+    background: #295093;
+    height: 4px
+}
+
+.Namangan {
+    margin-bottom: 0px;
+    margin-top: 47px;
+    margin-left: 127px;
+    display: inline-block;
+}
+
+.price {
+    display: inline-block;
+    margin-left: 23px;
+    margin-top: 54px;
+    font-weight: 700;
+    font-size: 16px;
+    color: #7a7a7a;
+}
+
+.money {
+    color: #285193;
+}
+
+.flag {
+    border-radius: 90px;
+}
+
+.lupa {
+    margin-left: 12.5%;
+    margin-right: 42.53px;
+}
+
+.t_me {
+    margin-left: 42px;
+    background: linear-gradient(90deg, #1E96C8 15.07%, #37AEE2 85.96%);
+}
+
+.clicHere {
+    background: linear-gradient(90deg, #1E96C8 15.07%, #37AEE2 85.96%);
+    border-radius: 5px;
+    border: none;
+    width: 150px;
+    height: 40px;
+    margin-top: 44px;
+    margin-right: 121px;
+}
+
+.follow {
+    padding-left: 7.31px;
+    font-size: 16px;
+    color: #ffffff
+}
+
+.info {
+    background: #FFFFFF;
+    box-shadow: 0px 2px 5px rgba(159, 159, 159, 0.19);
+    border-radius: 5px;
+    width: 1030px;
+    height: 68px;
+    margin-top: 49px;
+    padding-top: 30px;
+    margin-left: 143px;
+    font-weight: 500;
+    font-size: 19px;
+    color: #515151;
+}
+
+#banner {
+    margin-top: 40px;
+    margin-bottom: 45px;
+    margin-left: 119px;
+    margin-right: 121px;
+}
+
+.virus {
+    display: inline-block;
+    margin-top: 44px;
+    margin-left: 154px;
+    margin-right: 25px;
+    padding-left: 35px;
+}
+
+.covid {
+    display: inline-block;
+    font-weight: 500;
+    font-size: 20px;
+    margin-top: 42px;
+    margin-right: 71px;
+}
+
+.empty {
+    display: inline-block;
+    margin-top: 30px;
+    width: 2px;
+    height: 65px;
+    border-right: solid;
+    color: #EB5569;
+    ;
+}
+
+.infeksiya_img {
+    display: inline-block;
+    margin-top: 48.25px;
+    margin-left: 30.19px;
+    margin-right: 18.19px;
+}
+
+.infeksiya {
+    display: inline-block;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.span {
+    display: block;
+    margin-top: 41px;
+    margin-right: 42px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #db0000;
+}
+
+.div {
+    display: inline-block;
+    margin-top: 42px;
+    width: 2px;
+    height: 49px;
+    border-right: solid;
+    color: #F4CCD1;
+}
+
+.recover {
+    display: inline-block;
+    margin-top: 49.25px;
+    margin-right: 20.19px;
+    margin-left: 30.19px;
+    width: 35.63px;
+    height: 37.5px;
+}
+
+.health {
+    display: inline-block;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.span1 {
+    display: block;
+    margin-top: 41px;
+    margin-right: 9px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #05B135;
+}
+
+.column {
+    display: inline-block;
+    width: 2px;
+    height: 49px;
+    border-right: solid;
+    color: #F4CCD1;
+}
+
+/*Prezident */
+.prezident_img {
+    width: 386px;
+    height: 190px;
+    margin-left: 119px;
+    margin-top: 18px;
+    margin-bottom: 11px;
+}
+
+.sardoba1 {
+    font-weight: 900;
+    font-size: 17px;
+    line-height: 20px;
+    color: #202020;
+    margin-top: 0px;
+    margin-left: 118px;
+}
+
+.data1 {
+    color: #6B6D97;
+    font-weight: 400;
+    font-size: 14px;
+    margin-top: 11px;
+    margin-left: 118px;
+}
+
+.karantin_img {
+    width: 388px;
+    height: 190px;
+    margin-top: 18px;
+    margin-left: 20px;
+    margin-bottom: 11px;
+    border-radius: 5px;
+}
+
+.karantin {
+    font-weight: 900;
+    font-size: 17px;
+    color: #202020;
+    margin-top: 19px;
+    margin-left: 26px;
+}
+
+.data2 {
+    font-weight: 400;
+    font-size: 14px;
+    color: #6B6D97;
+    margin-left: 26px;
+}
+
+.news1 {
+    display: inline-block;
+}
+
+.news2 {
+    display: inline-block;
+}
+
+.news3 {
+    display: inline-block;
+}
+
+.sardoba_img {
+    width: 386px;
+    height: 190px;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-top: 18px;
+}
+
+.sardoba2 {
+    font-weight: 900;
+    font-size: 17px;
+    color: #202020;
+    margin-top: 11px;
+    margin-left: 39px;
+}
+
+.data3 {
+    font-weight: 400;
+    font-size: 14px;
+    color: #6B6D97;
+    margin-left: 39px;
+    margin-top: 11px;
+}
+
+.news4 {
+    display: inline-block;
+}
+
+.procuror_img {
+    width: 386px;
+    height: 190px;
+    margin-top: 18px;
+    margin-left: 119px;
+}
+
+.prokuror {
+    font-weight: 900;
+    font-size: 17px;
+    width: 320px;
+    height: 42px;
+    color: #202020;
+    margin-top: 11px;
+    margin-left: 118px;
+}
+
+.data4 {
+    font-weight: 400;
+    font-size: 14px;
+    font-weight: 400;
+    font-size: 14px;
+    margin-top: 11px;
+    margin-left: 118px;
+    color: #6B6D97
+}
+
+.news5 {
+    display: inline-block;
+}
+
+.tezyordam_img {
+    width: 388px;
+    height: 190px;
+    margin-top: 38px;
+    margin-left: 20px;
+}
+
+.tezyordam {
+    font-weight: 900;
+    font-size: 17px;
+    margin-top: 32px;
+    margin-left: 19px;
+    color: #202020;
+}
+
+.data5 {
+    font-weight: 400;
+    font-size: 14px;
+    color: #6B6D97;
+    margin-top: 11px;
+    margin-left: 19px;
+}
+
+.news6 {
+    display: inline-block;
+}
+
+.stopkarantin_img {
+    width: 386px;
+    height: 190px;
+    border-radius: 5px;
+    margin-top: 18px;
+    margin-left: 20px;
+}
+
+.stopkarantin {
+    width: 281px;
+height: 22px;
+font-weight: 900;
+font-size: 17px;
+color: #202020;
+margin-top: 32px;
+margin-left: 20px;
+}
+
+.data6 {
+    font-weight: 400;
+font-size: 14px;
+color: #6B6D97;
+margin-top: 11px;
+margin-left: 20px;
+}
+
